@@ -1,4 +1,4 @@
-# README: Products List
+# README: Mercadinho do Sr. Scott
 
 <img src="assets/mercadinho-do-sr-scott.png" alt="page" title="page" width=100%>
 
